@@ -1,1 +1,1 @@
-# Java-AI-Powered-DIO
+Projetos do bootcamp "Java AI Powered" da DIO
